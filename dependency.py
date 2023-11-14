@@ -1,4 +1,3 @@
-import pynetlogo
 import base64
 import matplotlib
 import pandas as pd
