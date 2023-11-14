@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from flask import Flask, render_template, request,jsonify, send_file
 import json
 import os
-import pynetlogo
+# import pynetlogo
 import gc
 from netlogo_instance import get_netlogo_instance
 import subprocess
